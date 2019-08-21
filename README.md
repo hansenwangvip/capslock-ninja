@@ -13,4 +13,6 @@ Your Capslock key could do more.
 - Capslock–H：删除前一个(Backspace)。
 - Capslock–D：删除后一个(Delete)。
 
+## 参考
+
 [Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
