@@ -1,6 +1,7 @@
-# capslock-ninja
+# capslock-ninjia
 
-Your Capslock key could do more.
+在公司用Windows PC，家里用Mac，本工具可以统一快捷键，向macOS看齐！
+快捷键可以持续优化，欢迎建议。
 
 ## 快捷键
 
