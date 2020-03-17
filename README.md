@@ -40,4 +40,4 @@
 
 ## 贡献
 
-如有问题，请提issue。
+如有问题，请[提issue](https://github.com/hansenwangvip/capslock-ninja/issues/new)。
