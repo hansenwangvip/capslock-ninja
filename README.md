@@ -1,9 +1,8 @@
 # capslock-ninja
 
-在公司用Windows PC，家里用Mac，本工具可以统一快捷键，向macOS看齐！
-
 ## 灵感
-在Windows上将很少用到的Capslock用于快捷键映射，很舒服。
+
+在Windows上将很少用到的Capslock键用于快捷键映射，很舒服。
 
 在macOS上，修改修饰键Capslock为Control。
 
