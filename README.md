@@ -13,7 +13,7 @@
 ## 安装
 下载，解压，运行。
 
-- v0.1版本：[点我直接下载](https://github.com/hansenwangvip/capslock-ninja/releases/download/v0.1/capslock-ninja@0.1.zip)
+- v0.1版本：[点我直接下载](https://github.com/hansenwangvip/capslock-ninja/archive/1.0.zip)
 
 ## 开机自启动
 	1. 按快捷键：`WIN + R`
